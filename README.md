@@ -1,2 +1,2 @@
 # GitSample
-test
+テスト
